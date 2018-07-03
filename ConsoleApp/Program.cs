@@ -13,6 +13,8 @@ namespace ConsoleApp
             Console.WriteLine("Hello World");
             var a = 10;
             Console.WriteLine(a);
+            a = 100;
+            Console.WriteLine(a);
         }
     }
 }
