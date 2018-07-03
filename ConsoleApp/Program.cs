@@ -11,7 +11,8 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-        fsad
+            var a = 10;
+            Console.WriteLine(a);
         }
     }
 }
