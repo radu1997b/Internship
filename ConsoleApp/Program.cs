@@ -18,6 +18,7 @@ namespace ConsoleApp
             Console.WriteLine("Salut!");
             Console.Writeln("SDASD");
             a = 50;
+            a = a + 10;
         }
     }
 }
