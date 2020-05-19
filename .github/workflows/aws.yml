@@ -2,7 +2,7 @@ name: Staging Build
 on:
   push:
     branches:
-      - radu2
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
